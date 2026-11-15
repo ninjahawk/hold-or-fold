@@ -1,0 +1,10 @@
+{
+ "arc_challenge": {
+  "kept": 1172,
+  "dropped": 0
+ },
+ "mmlu_pro": {
+  "kept": 12032,
+  "dropped": 0
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "haiku": {
+  "items_complete": 300,
+  "first100_by_completion": {
+   "wrong0_all": 24,
+   "wrong0_nontrap": 13
+  },
+  "api_equiv_usd_total": 5.7,
+  "api_equiv_usd_per_100_items": 1.9,
+  "agent_seconds_per_item": 44.5,
+  "switch_rule_triggered": false
+ },
+ "sonnet": {
+  "items_complete": 300,
+  "first100_by_completion": {
+   "wrong0_all": 20,
+   "wrong0_nontrap": 10
+  },
+  "api_equiv_usd_total": 77.07,
+  "api_equiv_usd_per_100_items": 25.69,
+  "agent_seconds_per_item": 27.8
+ }
+}

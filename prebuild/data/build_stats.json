@@ -1,0 +1,30 @@
+{
+ "mbppplus": {
+  "kept": 371,
+  "dropped": 7,
+  "dropped_items": {
+   "mbppplus/88": "nonstandard test",
+   "mbppplus/255": "nonstandard test",
+   "mbppplus/579": "canonical fails (5 tests)",
+   "mbppplus/630": "nonstandard test",
+   "mbppplus/737": "canonical fails (31 tests)",
+   "mbppplus/787": "canonical fails (31 tests)",
+   "mbppplus/794": "canonical fails (31 tests)"
+  },
+  "hidden_tests_total": 10999
+ },
+ "humanevalplus": {
+  "kept": 157,
+  "dropped": 7,
+  "dropped_items": {
+   "humanevalplus/HumanEval/14": "nonstandard test",
+   "humanevalplus/HumanEval/15": "nonstandard test",
+   "humanevalplus/HumanEval/32": "nonstandard test",
+   "humanevalplus/HumanEval/83": "nonstandard test",
+   "humanevalplus/HumanEval/100": "nonstandard test",
+   "humanevalplus/HumanEval/130": "nonstandard test",
+   "humanevalplus/HumanEval/139": "nonstandard test"
+  },
+  "hidden_tests_total": 4691
+ }
+}

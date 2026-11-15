@@ -1,0 +1,3 @@
+# Verified false positives: the common English word in public dataset text (physics questions).
+data/arc_challenge.jsonl	private_term
+data/mmlu_pro.jsonl	private_term

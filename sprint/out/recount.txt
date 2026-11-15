@@ -1,0 +1,102 @@
+haiku   all      n           recount=300      analyze=300
+haiku   all      n_wrong0    recount=58       analyze=58
+haiku   all      acc0        recount=0.8067   analyze=0.8067
+haiku   all      mean_conf0  recount=0.8732   analyze=0.8732
+haiku   all      brier       recount=0.1565   analyze=0.1565
+haiku   all      ece         recount=0.0804   analyze=0.0804
+haiku   all      ftw_1       recount=0.0      analyze=0.0
+haiku   all      ftr_1       recount=0.0      analyze=0.0
+haiku   all      ftw_2       recount=0.0165   analyze=0.0165
+haiku   all      ftr_2       recount=0.1034   analyze=0.1034
+haiku   all      ftw_3       recount=0.0785   analyze=0.0785
+haiku   all      ftr_3       recount=0.3621   analyze=0.3621
+haiku   all      contrast_3  recount=0.2836   analyze=0.2836
+haiku   nontrap  n           recount=260      analyze=260
+haiku   nontrap  n_wrong0    recount=31       analyze=31
+haiku   nontrap  acc0        recount=0.8808   analyze=0.8808
+haiku   nontrap  mean_conf0  recount=0.8705   analyze=0.8705
+haiku   nontrap  brier       recount=0.0969   analyze=0.0969
+haiku   nontrap  ece         recount=0.046    analyze=0.046
+haiku   nontrap  ftw_1       recount=0.0      analyze=0.0
+haiku   nontrap  ftr_1       recount=0.0      analyze=0.0
+haiku   nontrap  ftw_2       recount=0.0087   analyze=0.0087
+haiku   nontrap  ftr_2       recount=0.0645   analyze=0.0645
+haiku   nontrap  ftw_3       recount=0.0655   analyze=0.0655
+haiku   nontrap  ftr_3       recount=0.3548   analyze=0.3548
+haiku   nontrap  contrast_3  recount=0.2893   analyze=0.2893
+haiku   trap     n           recount=40       analyze=40
+haiku   trap     n_wrong0    recount=27       analyze=27
+haiku   trap     acc0        recount=0.325    analyze=0.325
+haiku   trap     mean_conf0  recount=0.8912   analyze=0.8913
+haiku   trap     brier       recount=0.5437   analyze=0.5437
+haiku   trap     ece         recount=0.5663   analyze=0.5663
+haiku   trap     ftw_1       recount=0.0      analyze=0.0
+haiku   trap     ftr_1       recount=0.0      analyze=0.0
+haiku   trap     ftw_2       recount=0.1538   analyze=0.1538
+haiku   trap     ftr_2       recount=0.1481   analyze=0.1481
+haiku   trap     ftw_3       recount=0.3077   analyze=0.3077
+haiku   trap     ftr_3       recount=0.3704   analyze=0.3704
+haiku   trap     contrast_3  recount=0.0627   analyze=0.0627
+sonnet  all      n           recount=300      analyze=300
+sonnet  all      n_wrong0    recount=55       analyze=55
+sonnet  all      acc0        recount=0.8167   analyze=0.8167
+sonnet  all      mean_conf0  recount=0.9233   analyze=0.9233
+sonnet  all      brier       recount=0.1557   analyze=0.1557
+sonnet  all      ece         recount=0.1067   analyze=0.1067
+sonnet  all      ftw_1       recount=0.0041   analyze=0.0041
+sonnet  all      ftr_1       recount=0.0      analyze=0.0
+sonnet  all      ftw_2       recount=0.0408   analyze=0.0408
+sonnet  all      ftr_2       recount=0.1455   analyze=0.1455
+sonnet  all      ftw_3       recount=0.0653   analyze=0.0653
+sonnet  all      ftr_3       recount=0.4      analyze=0.4
+sonnet  all      contrast_3  recount=0.3347   analyze=0.3347
+sonnet  nontrap  n           recount=260      analyze=260
+sonnet  nontrap  n_wrong0    recount=26       analyze=26
+sonnet  nontrap  acc0        recount=0.9      analyze=0.9
+sonnet  nontrap  mean_conf0  recount=0.9234   analyze=0.9234
+sonnet  nontrap  brier       recount=0.0836   analyze=0.0836
+sonnet  nontrap  ece         recount=0.0234   analyze=0.0234
+sonnet  nontrap  ftw_1       recount=0.0043   analyze=0.0043
+sonnet  nontrap  ftr_1       recount=0.0      analyze=0.0
+sonnet  nontrap  ftw_2       recount=0.0256   analyze=0.0256
+sonnet  nontrap  ftr_2       recount=0.0769   analyze=0.0769
+sonnet  nontrap  ftw_3       recount=0.0427   analyze=0.0427
+sonnet  nontrap  ftr_3       recount=0.3462   analyze=0.3462
+sonnet  nontrap  contrast_3  recount=0.3034   analyze=0.3034
+sonnet  trap     n           recount=40       analyze=40
+sonnet  trap     n_wrong0    recount=29       analyze=29
+sonnet  trap     acc0        recount=0.275    analyze=0.275
+sonnet  trap     mean_conf0  recount=0.9228   analyze=0.9228
+sonnet  trap     brier       recount=0.6244   analyze=0.6244
+sonnet  trap     ece         recount=0.6478   analyze=0.6478
+sonnet  trap     ftw_1       recount=0.0      analyze=0.0
+sonnet  trap     ftr_1       recount=0.0      analyze=0.0
+sonnet  trap     ftw_2       recount=0.3636   analyze=0.3636
+sonnet  trap     ftr_2       recount=0.2069   analyze=0.2069
+sonnet  trap     ftw_3       recount=0.5455   analyze=0.5455
+sonnet  trap     ftr_3       recount=0.4483   analyze=0.4483
+sonnet  trap     contrast_3  recount=-0.0972  analyze=-0.0972
+haiku link held_correct_auroc                recount=0.781    analyze=0.781
+haiku link fixed_wrong_auroc                 recount=0.3919   analyze=0.3919
+haiku link_nontrap held_correct_auroc        recount=0.8235   analyze=0.8235
+haiku link_nontrap fixed_wrong_auroc         recount=0.2795   analyze=0.2795
+sonnet link held_correct_auroc               recount=0.8118   analyze=0.8118
+sonnet link fixed_wrong_auroc                recount=0.5744   analyze=0.5744
+sonnet link_nontrap held_correct_auroc       recount=0.8754   analyze=0.8754
+sonnet link_nontrap fixed_wrong_auroc        recount=0.4706   analyze=0.4706
+paired sonnet - haiku acc0                   recount=0.01     analyze=0.01
+paired sonnet - haiku mean_conf0             recount=0.0501   analyze=0.0501
+paired sonnet - haiku brier                  recount=-0.0008  analyze=-0.0008
+paired sonnet - haiku ftw_3                  recount=-0.0132  analyze=-0.0132
+paired sonnet - haiku ftr_3                  recount=0.0379   analyze=0.0379
+paired sonnet - haiku contrast_3             recount=0.0511   analyze=0.0511
+redteam haiku conf drop>=20 on correct       recount=190      analyze=190
+redteam haiku main FTR_3 k                   recount=21       analyze=21
+redteam haiku control FTR_3 k                recount=0        analyze=0
+redteam haiku control FTW_3 k                recount=0        analyze=0
+redteam sonnet conf drop>=20 on correct      recount=12       analyze=12
+redteam sonnet main FTR_3 k                  recount=22       analyze=22
+redteam sonnet control FTR_3 k               recount=1        analyze=1
+redteam sonnet control FTW_3 k               recount=0        analyze=0
+redteam both-wrong n                         recount=51       analyze=51
+mismatches: 0

@@ -1,0 +1,15 @@
+2026-11-13T23:23:51-05:00 block-to-50 (first block, checked by hand: can 50+7=57<61 yes, five_hour=53) done items=50
+2026-11-13T23:23:52-05:00 block-to-100 weekly=50 five_hour=62 can_rc=0 yes: meter 50 + worst 3 = 53 vs job #2158 line 61
+2026-11-14T07:49:06-05:00 RESUME under job 2309 (2158 stopped by runner at 5h window); 93 items complete, no partial items
+2026-11-14T07:49:06-05:00 block-to-100 weekly=58 five_hour=7 can_rc=0 yes: meter 58 + worst 3 = 61 vs job #2309 line 72
+2026-11-14T07:51:07-05:00 block-to-100 done items=100
+2026-11-14T07:51:07-05:00 block-to-150 weekly=58 five_hour=7 can_rc=0 yes: meter 58 + worst 3 = 61 vs job #2309 line 72
+2026-11-14T08:03:48-05:00 block-to-150 done items=150
+2026-11-14T08:03:48-05:00 block-to-200 weekly=60 five_hour=18 can_rc=0 yes: meter 60 + worst 3 = 63 vs job #2309 line 72
+2026-11-14T08:16:12-05:00 block-to-200 done items=200
+2026-11-14T08:16:13-05:00 block-to-250 weekly=60 five_hour=24 can_rc=0 yes: meter 60 + worst 3 = 63 vs job #2309 line 72
+2026-11-14T08:29:08-05:00 block-to-250 done items=250
+2026-11-14T08:29:08-05:00 block-to-300 weekly=61 five_hour=30 can_rc=0 yes: meter 61 + worst 3 = 64 vs job #2309 line 72
+2026-11-14T08:44:18-05:00 block-to-300 done items=300
+2026-11-14T08:44:18-05:00 ALL BLOCKS DONE
+2026-11-14T08:44:47-05:00 after ALL BLOCKS (meter read once the last block ended) weekly=62 five_hour=38

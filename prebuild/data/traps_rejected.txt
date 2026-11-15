@@ -1,0 +1,41 @@
+mbppplus/66: canonical passes the trap
+mbppplus/113: canonical passes the trap
+mbppplus/118: alternate fails 5 tests incl. original ones (None)
+mbppplus/137: canonical passes the trap
+mbppplus/244: canonical passes the trap
+mbppplus/301: alternate fails 1 tests incl. original ones (None)
+mbppplus/435: canonical passes the trap
+mbppplus/559: canonical passes the trap
+mbppplus/593: alternate fails 28 tests incl. original ones (None)
+mbppplus/605: canonical passes the trap
+mbppplus/755: alternate fails 17 tests incl. original ones (None)
+mbppplus/803: canonical passes the trap
+mbppplus/569: alternate fails 1 tests incl. original ones (None)
+mbppplus/465: alternate fails 14 tests incl. original ones (None)
+mbppplus/238: alternate fails 25 tests incl. original ones (None)
+mbppplus/7: alternate fails 11 tests incl. original ones (None)
+mbppplus/2: alternate fails 8 tests incl. original ones (None)
+mbppplus/133: canonical passes the trap
+mbppplus/798: canonical passes the trap
+mbppplus/591: canonical passes the trap
+mbppplus/807: canonical passes the trap
+humanevalplus/HumanEval/0: alternate fails 1 tests incl. original ones (None)
+humanevalplus/HumanEval/22: canonical passes the trap
+humanevalplus/HumanEval/43: alternate fails 1 tests incl. original ones (None)
+humanevalplus/HumanEval/51: alternate fails 11 tests incl. original ones (None)
+humanevalplus/HumanEval/75: alternate fails 6 tests incl. original ones (None)
+humanevalplus/HumanEval/103: alternate fails 3 tests incl. original ones (None)
+humanevalplus/HumanEval/24: canonical passes the trap
+humanevalplus/HumanEval/13: canonical passes the trap
+humanevalplus/HumanEval/31: canonical passes the trap
+mbppplus/18: alternate fails 1 tests incl. original ones (None)
+mbppplus/130: alternate fails 10 tests incl. original ones (None)
+mbppplus/410: alternate fails 5 tests incl. original ones (None)
+mbppplus/427: alternate fails 17 tests incl. original ones (None)
+mbppplus/602: alternate fails 2 tests incl. original ones (None)
+mbppplus/759: alternate fails 2 tests incl. original ones (None)
+humanevalplus/HumanEval/2: canonical passes the trap
+humanevalplus/HumanEval/151: alternate fails 2 tests incl. original ones (None)
+humanevalplus/HumanEval/44: canonical passes the trap
+humanevalplus/HumanEval/12: alternate fails 5 tests incl. original ones (None)
+humanevalplus/HumanEval/30: alternate fails 15 tests incl. original ones (None)

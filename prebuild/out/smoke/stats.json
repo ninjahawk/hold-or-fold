@@ -1,0 +1,72 @@
+{
+ "claude:claude-haiku-5-5": {
+  "smoke": {
+   "items": 5,
+   "traps": 1,
+   "turns": 25,
+   "turn_s_mean": 5.422727279663086,
+   "turn_s_median": 5.241734266281128,
+   "turn_s_max": 9.678457260131836,
+   "item_s_mean": 27.11363639831543,
+   "tokens_per_turn": {
+    "input_tokens": 3.36,
+    "output_tokens": 709.56,
+    "cache_creation_input_tokens": 2340.96,
+    "cache_read_input_tokens": 41629.56
+   },
+   "api_usd_equiv_per_turn": 0.0040522552,
+   "confidence_parse_fail": 0,
+   "confidence_asked": 20,
+   "backend_errors": 0,
+   "exec_errors": []
+  },
+  "projection": {
+   "items": 300,
+   "turns": 1500,
+   "parallel": 4,
+   "wall_h": 0.5648674249649048,
+   "tokens_M": {
+    "input_tokens": 0.00504,
+    "output_tokens": 1.0643399999999998,
+    "cache_creation_input_tokens": 3.51144,
+    "cache_read_input_tokens": 62.44434
+   },
+   "api_usd_equiv": 6.078382800000001
+  }
+ },
+ "claude:claude-sonnet-5-5": {
+  "smoke": {
+   "items": 5,
+   "traps": 1,
+   "turns": 25,
+   "turn_s_mean": 6.48633581161499,
+   "turn_s_median": 5.75858998298645,
+   "turn_s_max": 11.370386600494385,
+   "item_s_mean": 32.43167905807495,
+   "tokens_per_turn": {
+    "input_tokens": 4.96,
+    "output_tokens": 491.04,
+    "cache_creation_input_tokens": 1855.72,
+    "cache_read_input_tokens": 39307.4
+   },
+   "api_usd_equiv_per_turn": 0.054223776,
+   "confidence_parse_fail": 0,
+   "confidence_asked": 20,
+   "backend_errors": 0,
+   "exec_errors": []
+  },
+  "projection": {
+   "items": 300,
+   "turns": 1500,
+   "parallel": 4,
+   "wall_h": 0.6756599803765615,
+   "tokens_M": {
+    "input_tokens": 0.00744,
+    "output_tokens": 0.73656,
+    "cache_creation_input_tokens": 2.78358,
+    "cache_read_input_tokens": 58.9611
+   },
+   "api_usd_equiv": 81.335664
+  }
+ }
+}
